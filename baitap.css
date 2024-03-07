@@ -1,0 +1,23 @@
+table {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 20px;
+    height: 500px;
+}
+th {
+    font-weight: bold;
+    border: 2px solid #dddddd;
+    padding-top: 10px;
+}
+tr td {
+    padding: 10px;
+    border: 2px solid #dddddd;
+}
+.a {
+    background-color: green;
+}
+.b {
+    background-color: violet;
+}
